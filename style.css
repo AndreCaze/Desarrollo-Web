@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+    font-size: 100px;
+    background-color: #8ecae6;
+    color: #fb8500;
+}
+article {
+    margin: -5px;
+}
+
+li {
+    text-align: center;
+    margin-top: -15px;
+    color: #023047;
+}
+
+header{
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+img {
+    box-sizing: border-box;
+    width: 1000px;
+    margin-bottom: -20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: lighter;
+}
